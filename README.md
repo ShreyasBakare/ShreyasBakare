@@ -41,6 +41,33 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
   </a>
 </p>
 
+## 📞 Let’s Connect  
+
+<p align="left">
+  <a href="mailto:shreyas.bakare@students.iiserpune.ac.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/shreyas-bakare" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@ShreyasBakare" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube" />
+  </a>
+  <a href="https://shreyasbakare.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?logo=github&logoColor=white&style=flat" alt="Website" />
+  </a>
+  <a href="https://lagrangians2lasers.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Work-00B0B9?logo=github&logoColor=white&style=flat" alt="Work on Lagrangians2Lasers" />
+  </a>
+  <a href="mailto:shreyas.sunil.bakare@cern.ch" target="_blank">
+    <img src="https://img.shields.io/badge/CERN%20Email-FF5C5C?logo=gmail&logoColor=white&style=flat" alt="CERN Email" />
+  </a>
+  <a href="https://instagram.com/shreeeessh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram" />
+  </a>
+</p>
+
+
 ---
 
 ## ⚡ Skills & Tools  
