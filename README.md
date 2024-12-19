@@ -1,18 +1,3 @@
-<h1 align="center">Welcome to My GitHub Space! ✨</h1>  
-
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-    <div style="text-align: center;">
-      <b>Researcher | Experimental Particle Physicist | Machine Learning Enthusiast</b><br>
-      <i>CMS Experiment, LHC, CERN</i>
-    </div>
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/github/followers/ShreyasBakare?style=social" alt="GitHub followers" /><br>
-      <img src="https://komarev.com/ghpvc/?username=shreyas-bakare&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
-    </div>
-  </div>
-</p>
-
 
 
 <p align="center">
