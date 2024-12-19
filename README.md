@@ -1,4 +1,4 @@
-![Welcome Image](https://home.cern/sites/default/files/inline-images/ndinmore/CMS%20event%20display.png)
+![Alt text](myimage.png)
 <table align="center">
   <tr>
     <td align="center">
