@@ -1,11 +1,11 @@
 <h1 align="center">✨ Welcome to My GitHub Space! ✨</h1>  
 <p align="center">
   <b>Physicist | Researcher | Machine Learning Enthusiast</b><br>
-  <i>Exploring High Energy Physics with AI, from CERN to CMS</i>
+  <i>Exploring High Energy Physics with AI, CMS</i>
 </p>  
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/shreyas-bakare?style=social" alt="GitHub followers" /> 
+  <img src="https://img.shields.io/github/followers/ShreyasBakare?style=social" alt="GitHub followers" /> 
   <img src="https://komarev.com/ghpvc/?username=shreyas-bakare&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>  
 
