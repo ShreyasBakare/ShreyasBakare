@@ -1,6 +1,6 @@
 <h1 align="center">✨ Welcome to My GitHub Space! ✨</h1>  
 <p align="center">
-  <b>Physicist | Researcher | Machine Learning Enthusiast</b><br>
+  <b>Researcher  |  Experimental Particle Physicist  |  Machine Learning Enthusiast</b><br>
   <i>Exploring High Energy Physics with AI, CMS</i>
 </p>  
 
