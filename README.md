@@ -1,14 +1,16 @@
 <h1 align="center">Welcome to My GitHub Space! ✨</h1>  
 
-<p align="center">
-  <b>Researcher | Experimental Particle Physicist | Machine Learning Enthusiast</b><br>
-  <i>CMS Experiment, LHC, CERN</i>
-</p>
+<div align="center">
+  <div style="display: inline-block; margin-right: 20px;">
+    <img src="https://img.shields.io/github/followers/ShreyasBakare?style=social" alt="GitHub followers" /><br>
+    <img src="https://komarev.com/ghpvc/?username=shreyas-bakare&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  </div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ShreyasBakare?style=social" alt="GitHub followers" /><br>
-  <img src="https://komarev.com/ghpvc/?username=shreyas-bakare&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+  <div style="display: inline-block;">
+    <b>Researcher | Experimental Particle Physicist | Machine Learning Enthusiast</b><br>
+    <i>CMS Experiment, LHC, CERN</i>
+  </div>
+</div>
 
 
 <p align="center">
