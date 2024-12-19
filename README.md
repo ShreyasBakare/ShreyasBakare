@@ -1,4 +1,3 @@
-![Alt text](myimage.jpeg)
 <table align="center">
   <tr>
     <td align="center">
