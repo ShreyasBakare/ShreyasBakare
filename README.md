@@ -1,4 +1,4 @@
-![Alt text](myimage.png)
+![Alt text](myimage.jpeg)
 <table align="center">
   <tr>
     <td align="center">
