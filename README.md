@@ -1,4 +1,15 @@
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Researcher | Experimental Particle Physicist | Machine Learning Enthusiast</b><br>
+      <i>CMS Experiment, LHC, CERN</i>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/ShreyasBakare?style=social" alt="GitHub followers" /> <br>
+      <img src="https://komarev.com/ghpvc/?username=shreyas-bakare&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <b>Researcher  |  Experimental Particle Physicist  |  Machine Learning Enthusiast</b><br>
