@@ -63,7 +63,7 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
     <img src="https://img.shields.io/badge/CERN%20Email-FF5C5C?logo=gmail&logoColor=white&style=flat" alt="CERN Email" />
   </a>
   <a href="mailto:shreyas.sunil.bakare@cern.ch" target="_blank">
-  <img src="https://img.shields.io/badge/CERN%20Email-FF5C5C?logo=<URL_TO_YOUR_LOGO>&logoColor=white&style=flat" alt="CERN Email" />
+  <img src="https://img.shields.io/badge/CERN%20Email-FF5C5C?logo=https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/CERN_logo.svg/1200px-CERN_logo.svg.png&logoColor=white&style=flat" alt="CERN Email" />
   </a>
   <a href="https://instagram.com/shreeeessh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram" />
