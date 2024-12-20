@@ -59,14 +59,11 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
   <a href="https://lagrangians2lasers.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Work-00B0B9?logo=github&logoColor=white&style=flat" alt="Work on Lagrangians2Lasers" />
   </a>
-  <a href="mailto:shreyas.sunil.bakare@cern.ch" target="_blank">
-    <img src="https://img.shields.io/badge/CERN%20Email-FF5C5C?logo=gmail&logoColor=white&style=flat" alt="CERN Email" />
-  </a>
-  <a href="mailto:shreyas.sunil.bakare@cern.ch" target="_blank">
-  <img src="https://img.shields.io/badge/CERN%20Email-FF5C5C?logo=https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/CERN_logo.svg/1200px-CERN_logo.svg.png&logoColor=white&style=flat" alt="CERN Email" />
-  </a>
   <a href="https://instagram.com/shreeeessh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram" />
+  </a>
+  <a href="mailto:shreyas.sunil.bakare@cern.ch" target="_blank">
+    <img src="https://img.shields.io/badge/CERN%20Email-FF5C5C?logo=gmail&logoColor=white&style=flat" alt="CERN Email" />
   </a>
 </p>
 
