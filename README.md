@@ -40,7 +40,7 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" alt="YouTube" />
   </a>
   <a href="https://shreyasbakare.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Work-00B0B9?style=flat" alt="Home" />
+    <img src="https://img.shields.io/badge/🌐%20Work-00B0B9?style=flat" alt="Website" />
   </a>
   <a href="https://lagrangians2lasers.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Work-00B0B9?style=flat" alt="L2L" />
