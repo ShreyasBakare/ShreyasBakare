@@ -94,7 +94,7 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasBakare&theme=material-palenight" alt="GitHub Streak" />
 </p>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-bakare&layout=compact&theme=material-palenight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaBakare&layout=compact&theme=material-palenight" alt="Top Languages" />
 </p>  
 
 ---
