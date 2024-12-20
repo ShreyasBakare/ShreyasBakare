@@ -43,7 +43,7 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
     <img src="https://img.shields.io/badge/Website-000000?logo=github&logoColor=white&style=flat" alt="Website" />
   </a>
   <a href="https://lagrangians2lasers.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Work-00B0B9?style=flat" alt="Work on Lagrangians2Lasers" />
+  <img src="https://img.shields.io/badge/🌐%20Work-00B0B9?style=flat" alt="L2L" />
   </a>
   <a href="https://instagram.com/shreeeessh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram" />
