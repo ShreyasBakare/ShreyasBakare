@@ -88,10 +88,10 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
 ## 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-bakare&show_icons=true&theme=material-palenight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasBakare&show_icons=true&theme=material-palenight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-bakare&theme=material-palenight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasBakare&theme=material-palenight" alt="GitHub Streak" />
 </p>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-bakare&layout=compact&theme=material-palenight" alt="Top Languages" />
