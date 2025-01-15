@@ -13,7 +13,7 @@
 
 ## 🌟 About Me  
 
-I’m **Shreyas Bakare**, a final-year BS-MS student at **[IISER Pune](https://www.iiserpune.ac.in/)** with a passion for **High Energy Physics (HEP)** and cutting-edge **Machine Learning (ML)** techniques.  
+I’m **Shreyas Bakare**, a final-year BS-MS dual-degree student at the **[Indian Institute of Science Education and Research (IISER), Pune.](https://www.iiserpune.ac.in/)** My primary interest lies in **Experimental High Energy Physics** (EHEP), where I explore the integration of **Machine Learning** (ML) techniques to analyze and interpret complex particle physics data.
 
 My research focuses on integrating **Graph Neural Networks (GNNs)** with experimental HEP data to uncover new methodologies for event classification. From **CERN’s ATLAS experiment** to the **CMS group at IISER Pune**, I’ve contributed to multiple projects involving multilepton final state analysis, detector studies, and Monte Carlo simulations.  
 
