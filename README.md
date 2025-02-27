@@ -24,7 +24,7 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
 - 🌌 CMS Group Researcher: Worked on **lepton pairing algorithms** and **WZ/ZZ classification using GNNs**  
 - 📚 STEM Content Creator: Sharing knowledge on my **[YouTube channel](https://youtube.com/@ShreyasBakare)**  
 
-> **Fun Fact:** I built my first **cosmic muon detector** at CERN and created a **fingerprint-based door locking system** for fun!  
+> **Fun Fact:**
 
 ---
 ## 📞 Let’s Connect  
