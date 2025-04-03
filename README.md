@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-## 🌟 About Me  
+## About Me  
 
 I’m **Shreyas Bakare**, a final-year BS-MS dual-degree student at the **[Indian Institute of Science Education and Research (IISER), Pune.](https://www.iiserpune.ac.in/)** My primary interest lies in **Experimental High Energy Physics** (EHEP), where I explore the integration of **Machine Learning** (ML) techniques to analyze and interpret complex particle physics data.
 
