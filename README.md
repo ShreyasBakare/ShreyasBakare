@@ -15,6 +15,7 @@
 
 I’m **Shreyas Bakare**, a final-year BS-MS dual-degree student at the **[Indian Institute of Science Education and Research (IISER), Pune.](https://www.iiserpune.ac.in/)** My primary interest lies in **Experimental High Energy Physics** (EHEP), where I explore the integration of **Machine Learning** (ML) techniques to analyze and interpret complex particle physics data.
 
+<!--
 My research focuses on integrating **Graph Neural Networks (GNNs)** with experimental HEP data to uncover new methodologies for event classification. From **CERN’s ATLAS experiment** to the **CMS group at IISER Pune**, I’ve contributed to multiple projects involving multilepton final state analysis, detector studies, and Monte Carlo simulations.  
 
 Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm believer in the power of **science communication**.  
@@ -25,9 +26,9 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
 - 📚 STEM Content Creator: Sharing knowledge on my **[YouTube channel](https://youtube.com/@ShreyasBakare)**  
 
 > **Fun Fact:**
-
+-->
 ---
-## 📞 Let’s Connect  
+## Connect  
 
 <p align="left">
   <a href="mailto:shreyas.bakare@students.iiserpune.ac.in" target="_blank">
@@ -56,9 +57,9 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
 
 ---
 
-## ⚡ Skills & Tools  
+## Skills & Tools  
 
-### 👨‍💻 Programming Languages & Frameworks  
+### Programming Languages & Frameworks  
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" />
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat" alt="C++" />
@@ -67,7 +68,7 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
   <img src="https://img.shields.io/badge/-ROOT-0070CD?logo=data:image/svg+xml;base64,...&style=flat" alt="ROOT" />
 </p>
 
-### 🚀 Data Science & Machine Learning  
+### Data Science & Machine Learning  
 <p align="left">
   <img src="https://img.shields.io/badge/-PyTorch_Geometric-FC440F?logo=data:image/svg+xml;base64,...&style=flat" alt="PyTorch Geometric" />
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat" alt="NumPy" />
@@ -75,7 +76,7 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
   <img src="https://img.shields.io/badge/-SciKit_Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat" alt="SciKit-Learn" />
 </p>
 
-### 🛠 Tools & Platforms  
+### Tools & Platforms  
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
@@ -84,6 +85,7 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
 </p>
 
 ---
+<!-- This is a comment and will not be visible in the rendered output 
 
 ## 📊 GitHub Overview  
 
@@ -98,4 +100,4 @@ Beyond research, I’m a **YouTuber**, a **technology enthusiast**, and a firm b
 </p>  
 
 ---
-
+-->
