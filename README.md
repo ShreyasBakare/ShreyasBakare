@@ -1,6 +1,6 @@
 # Hi, I'm Shreyas 🙋🏻‍♂️
 
-A master's level physics student at the the [Indian Institute of Science Education and Research (IISER), Pune, India.](https://www.iiserpune.ac.in/) I am currently in the final year of my BS-MS dual degree working on my masters thesis in the [CMS Experimnet group at IISER Pune](http://sites.iiserpune.ac.in/%7Esdube/)
+A master's level physics student at the the [Indian Institute of Science Education and Research (IISER), Pune, India.](https://www.iiserpune.ac.in/) I am currently in the final year of my BS-MS dual degree working on my masters thesis in the [Experimnetal Particle Physics group at IISER Pune.](http://sites.iiserpune.ac.in/~ehep/index.html)
 
 ## About Me
 
