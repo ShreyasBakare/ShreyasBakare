@@ -100,74 +100,106 @@ I’ve been fortunate to work with some fantastic folks and explore data through
 <!-- 🧠 “Curiosity didn’t kill the cat, it built a cosmic muon detector instead.” -->
 
 
-# Shreyas Bakare ⚛️ 💻
+# Hi, I'm Shreyas ⚛️
 
-<p align="center">
-  Physics student at IISER Pune, currently exploring the experimental side of high-energy physics and how machine learning can help us understand it better.
+<p align="left">
+  A physics student at IISER Pune, fascinated by the experimental side of particle physics and exploring the power of machine learning in this field.
 </p>
 
-## A Little About Me
+<p align="left">
+  </p>
 
-Hi, I'm Shreyas. Physics has always felt like a natural fit for my curiosity, especially the hands-on aspect of experiments. Getting to use different tools to tackle fundamental questions about the universe is really engaging. Lately, I've been particularly drawn to experimental particle physics – it presents a unique set of challenges that require both thoughtful computation and careful analysis.
+## About Me
 
-My aim is to build a career where I can combine my interest in physics with my growing skills in computation, focusing on developing new machine learning methods for particle physics experiments.
+I'm Shreyas, and I'm really drawn to how we can use experiments to understand the fundamental laws of nature. Particle physics, in particular, presents some incredibly interesting challenges. I'm excited about developing new ways to apply machine learning to analyze the vast amounts of data we collect in these experiments.
 
-## What I'm Currently Working On
+In my work, I often use C++, ROOT, and Python. In my free time, I enjoy exploring new ideas and learning new things.
 
--   My Master's thesis, which involves using Graph Neural Networks for problems in high-energy physics.
--   Exploring if ideas from Topological Data Analysis could be useful in our field.
+## Tools I Use
 
-## My Toolkit
+### Programming
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" height="20" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="20" />
-  <img src="https://img.shields.io/badge/PyTorch Geometric-FC440F?style=flat" alt="PyTorch Geometric" height="20" />
-  <img src="https://img.shields.io/badge/ROOT-6dabe4?style=flat&logo=data:image/svg+xml;base64,..."/>
-  <br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="20" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="20" />
-  <img src="https://img.shields.io/badge/SciKit Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="20" />
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="20" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="20" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" height="20" />
-  <img src="https://img.shields.io/badge/CERN Frameworks-ff5c5c?style=flat" alt="CERN Frameworks" height="20" />
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://root.cern/" target="_blank" rel="noreferrer">
+    <img src="https://root.cern/img/logos/ROOT_Logo/logos/linux/linux-icon-96.png" alt="ROOT" width="40" height="40" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter" height="40" />
+  </a>
 </p>
 
-## Projects I've Worked On
+### Data Science and Machine Learning
 
-### Master's Thesis: Exploring GNNs in HEP
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+  </a>
+</p>
 
--   Investigating how Graph Neural Networks can be used for event classification and understanding particle tracks. Trying out different ways to represent the data as graphs.
+### Other
+
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  </p>
+
+<p align="center">
+  </p>
+
+## Projects
+
+### Master's Thesis
+
+-   Exploring the use of Graph Neural Networks for tasks in experimental high-energy physics.
 
 ### Lepton Pairing Algorithm
 
--   Developed a method to correctly match leptons that come from the same particle in our data. This helps in getting more accurate results in our analyses.
+-   Developed an algorithm to pair leptons in multi-lepton events, improving analysis accuracy.
 
-### ATLAS Summer Project
+### ATLAS 4-Lepton Search
 
--   Had the chance to work at CERN on a search for a specific type of new particle using the data from the ATLAS experiment.
+-   Contributed to a search for new particles using data from the ATLAS experiment at CERN.
 
-## Get In Touch
+## Contact Me
 
-<p align="center">
-  <a href="mailto:shreyas.bakare@students.iiserpune.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="20" />
+**Shreyas Bakare**
+
+<p align="left">
+  <a href="mailto:shreyas.bakare@students.iiserpune.ac.in" target="blank">
+    <img align="center" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" alt="Gmail" height="40" width="40" />
   </a>
-  <a href="https://shreyasbakare.github.io">
-    <img src="https://img.shields.io/badge/Website-5e17eb?style=flat" alt="Website" height="20" />
+  <a href="https://linkedin.com/in/shreyas-bakare" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/shreyas-bakare">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
-  </a>
-  <a href="https://lagrangians2lasers.github.io">
-    <img src="https://img.shields.io/badge/L2L Club-146BB5?style=flat" alt="L2L Club" height="20" />
-  </a>
-  <a href="https://instagram.com/shreeeessh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="20" />
+  <a href="https://instagram.com/shreeeessh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
-
