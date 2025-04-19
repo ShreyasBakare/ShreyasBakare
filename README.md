@@ -244,3 +244,53 @@ In my work, I often use C++, ROOT, and Python. In my free time, I enjoy explorin
     </div>
   </a>
 </div>
+
+
+<div style="font-family: 'Alegreya', serif; font-size: 15px; line-height: 1.5;">
+  <hr style="border: none; border-top: 1px solid #155C4E; margin: 10px 0;">
+  <div style="font-size: 24px; font-weight: bold;">Shreyas Bakare</div>
+  Final year BS-MS Physics Student<br>
+  Indian Institute of Science Education and Research (IISER) Pune, India
+  <br><br>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin-top: 10px; font-size: 14px; color: #155C4E;">
+    <div>
+      <img src="https://img.icons8.com/ios-filled/16/155C4E/domain.png" style="vertical-align: middle;" alt="Web Icon">
+      <a href="https://shreyasbakare.github.io" target="_blank" rel="noopener noreferrer" style="color: #155C4E; text-decoration: none;">shreyasbakare.github.io</a>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/ios-filled/16/155C4E/linkedin.png" style="vertical-align: middle;" alt="LinkedIn Icon">
+      <a href="https://www.linkedin.com/in/shreyas-bakare" target="_blank" rel="noopener noreferrer" style="color: #155C4E; text-decoration: none;">shreyas-bakare</a>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/ios-filled/16/155C4E/github.png" style="vertical-align: middle;" alt="GitHub Icon">
+      <a href="https://github.com/ShreyasBakare" target="_blank" rel="noopener noreferrer" style="color: #155C4E; text-decoration: none;">ShreyasBakare</a>
+    </div>
+  </div>
+  <hr style="border: none; border-top: 1px solid #155C4E; margin: 10px 0;">
+
+  <a href="https://lagrangians2lasers.github.io" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; font-family: 'Alegreya', serif;">
+      <img src="https://lagrangians2lasers.github.io/assets/img/new_logo.jpeg" style="height: 30px; margin-right: 10px;" alt="L2L Logo">
+      <div>
+        <div style="font-weight: bold; font-size: 14px; color: #155C4E;">Organizer</div>
+        <div style="font-size: 14px; color: #155C4E;">Physics Journal Club: Lagrangians to Lasers</div>
+      </div>
+    </div>
+  </a>
+
+  <br>
+
+  <p align="left">
+    <a href="mailto:shreyas.bakare@students.iiserpune.ac.in" target="blank">
+      <img align="center" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" alt="Gmail" height="40" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/shreyas-bakare" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/shreeeessh" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+  </p>
+
+</div>
