@@ -100,14 +100,11 @@ I’ve been fortunate to work with some fantastic folks and explore data through
 <!-- 🧠 “Curiosity didn’t kill the cat, it built a cosmic muon detector instead.” -->
 
 
-# Hi, I'm Shreyas ⚛️
+# Hi, I'm Shreyas 🙋🏻‍♂️
 
 <p align="left">
-  A physics student at IISER Pune, fascinated by the experimental side of particle physics and exploring the power of machine learning in this field.
+A master's level physics student at the the [Indian Institute of Science Education and Research (IISER), Pune, India.](https://www.iiserpune.ac.in/). I am currently in the final year of my BS-MS dual degree working on my masters thesis.
 </p>
-
-<p align="left">
-  </p>
 
 ## About Me
 
@@ -203,3 +200,47 @@ In my work, I often use C++, ROOT, and Python. In my free time, I enjoy explorin
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+<div style="font-family: 'Alegreya'; font-size: 15px; line-height: 1.5;">
+  <hr style="border: none; border-top: 1px solid rgb(21,92,78); margin: 10px 0;">
+  <div style="font-size: 24px; font-weight: bold;">Shreyas Bakare</div>
+  Final year BS-MS Physics Student<br>
+  Main Building, Room #214<br>
+  Indian Institute of Science Education and Research (IISER) Pune, India
+
+
+  <!-- Contact icons section -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin-top: 10px; font-size: 14px; color: rgb(21,92,78);">
+    <!-- <div>
+      <img src="https://img.icons8.com/ios-filled/16/155C4E/phone.png" style="vertical-align: middle;" alt="Phone Icon">
+      <a href="tel:+919423132680" target="_blank" rel="noopener noreferrer" style="color: rgb(21,92,78); text-decoration: none;">(+91) 94231 32680</a>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/ios-filled/16/155C4E/new-post.png" style="vertical-align: middle;" alt="Mail Icon">
+      <a href="mailto:shreyas.sunil.bakare@cern.ch" target="_blank" rel="noopener noreferrer" style="color: rgb(21,92,78); text-decoration: none;">shreyas.sunil.bakare@cern.ch</a>
+    </div> --> 
+    <div> 
+      <img src="https://img.icons8.com/ios-filled/16/155C4E/domain.png" style="vertical-align: middle;" alt="Web Icon">
+      <a href="https://shreyasbakare.github.io" target="_blank" rel="noopener noreferrer" style="color: rgb(21,92,78); text-decoration: none;">shreyasbakare.github.io</a>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/ios-filled/16/155C4E/linkedin.png" style="vertical-align: middle;"  alt="LinkedIn Icon">
+      <a href="https://www.linkedin.com/in/shreyas-bakare" target="_blank" rel="noopener noreferrer" style="color: rgb(21,92,78); text-decoration: none;">shreyas-bakare</a>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/ios-filled/16/155C4E/github.png" style="vertical-align: middle;" alt="GitHub Icon">
+      <a href="https://github.com/ShreyasBakare" target="_blank" rel="noopener noreferrer" style="color: rgb(21,92,78); text-decoration: none;">ShreyasBakare</a>
+    </div>
+  </div>
+  <hr style="border: none; border-top: 1px solid rgb(21,92,78); margin: 10px 0;">
+
+  <!-- L2L Club section -->
+  <a href="https://lagrangians2lasers.github.io" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; font-family: Alegreya;">
+      <img src="https://lagrangians2lasers.github.io/assets/img/new_logo.jpeg" style="height: 30px; margin-right: 10px;" alt="L2L Logo">
+      <div>
+        <div style="font-weight: bold; font-size: 14px; color: rgb(21,92,78);">Organizer</div>
+        <div style="font-size: 14px; color: rgb(21,92,78);">Physics Journal Club: Lagrangians to Lasers</div>
+      </div>
+    </div>
+  </a>
+</div>
