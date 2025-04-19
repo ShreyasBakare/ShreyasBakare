@@ -1,8 +1,6 @@
 # Hi, I'm Shreyas 🙋🏻‍♂️
 
-<p align="left">
 A master's level physics student at the the [Indian Institute of Science Education and Research (IISER), Pune, India.](https://www.iiserpune.ac.in/). I am currently in the final year of my BS-MS dual degree working on my masters thesis.
-</p>
 
 ## About Me
 
