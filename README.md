@@ -48,26 +48,26 @@ Here's a breakdown of the tools I use, categorized for clarity:
 
 <p align="center">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png" alt="NumPy" width="100" height="50" style="margin-right: 10px;">
+    <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png" alt="NumPy" width="100" height="50" style="margin-right: 25px;">
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://vectorseek.com/wp-content/uploads/2023/07/Pandas-Logo-Vector.svg-.png" alt="Pandas" width="80" height="40" style="margin-right: 10px;">
+    <img src="https://vectorseek.com/wp-content/uploads/2023/07/Pandas-Logo-Vector.svg-.png" alt="Pandas" width="80" height="40" style="margin-right: 25px;">
   </a>
   <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
-    <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="80" height="40" style="margin-right: 10px;">
+    <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="80" height="40" style="margin-right: 25px;">
   </a>
   <a href="https://giotto-tda.github.io/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGiLrTFcdpCM7wJrswZ48l_1ObB54RD1T1Q&s" alt="PyTorch Dark Mode Logo" width="120" height="40" style="margin-right: 20px;">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg" alt="PyTorch Light Mode Logo" width="80" height="40" style="margin-right: 20px;">
-      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" style="margin-right: 20px;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGiLrTFcdpCM7wJrswZ48l_1ObB54RD1T1Q&s" alt="PyTorch Dark Mode Logo" width="120" height="40" style="margin-right: 25px;">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg" alt="PyTorch Light Mode Logo" width="80" height="40" style="margin-right: 25px;">
+      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" style="margin-right: 25px;">
     </picture>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40" style="margin-right: 25px;">
   </a>
   <a href="https://pytorch-geometric.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/_static/img/pyg_logo.png" alt="PyG" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/_static/img/pyg_logo.png" alt="PyG" width="40" height="40" style="margin-right: 25px;">
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.tensorflow.org/images/tf_logo.svg" alt="TensorFlow" width="40" height="40" style="margin-right: 10px;">
