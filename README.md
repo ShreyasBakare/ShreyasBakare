@@ -14,7 +14,7 @@ Here's a breakdown of the tools I use, categorized for clarity:
 
 ### Programming
 
-<p align="center" style="font-size: 30px;">
+<p align="center" style="font-size: 300px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px;">
   </a>
