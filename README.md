@@ -50,10 +50,10 @@ Here's a breakdown of the tools I use, categorized for clarity:
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100" height="50" style="margin-right: 10px;">
   </a>
   <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/JuliaHEP/AwkwardArray.jl/master/docs/src/assets/logo.svg" alt="Awkward Array" width="100" height="50" style="margin-right: 10px;">
+    <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="100" height="50" style="margin-right: 10px;">
   </a>
   <a href="https://giotto-tda.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://giotto-tda.github.io/assets/img/logo.svg" alt="Giotto-TDA" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg" alt="Giotto-TDA" width="140" height="50" style="margin-right: 10px;">
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40" style="margin-right: 10px;">
