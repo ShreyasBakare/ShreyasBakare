@@ -12,16 +12,6 @@ In my work, I often use C++, ROOT, and Python. In my free time, I enjoy explorin
 
 Here's a breakdown of the tools I use, categorized for clarity:
 
-<p align="center">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="PyTorch Light Mode Logo" width="40" height="40" style="margin-right: 10px;">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="PyTorch Light Mode Logo" width="40" height="40" style="margin-right: 10px;">
-      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch Logo" width="40" height="40" style="margin-right: 10px;">
-    </picture>
-  </a>
-  </p>
-
 ### Programming
 
 <p align="center">
@@ -36,8 +26,8 @@ Here's a breakdown of the tools I use, categorized for clarity:
   </a>
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png" alt="PyTorch Dark Mode Logo" width="40" height="40" style="margin-right: 10px;">
-      <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*ThcllHZuDgpCMUCjYLqQag.png" alt="PyTorch Light Mode Logo" width="40" height="40" style="margin-right: 10px;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png" alt="PyTorch Dark Mode Logo" width="80" height="40" style="margin-right: 10px;">
+      <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*ThcllHZuDgpCMUCjYLqQag.png" alt="PyTorch Light Mode Logo" width="80" height="40" style="margin-right: 10px;">
       <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" style="margin-right: 10px;">
     </picture>
   </a>
