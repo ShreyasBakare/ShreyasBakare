@@ -50,15 +50,8 @@ Here's a breakdown of the tools I use, categorized for clarity:
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png" alt="NumPy" width="100" height="50" style="margin-right: 10px;">
   </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png" alt="PyTorch Dark Mode Logo" width="80" height="40" style="margin-right: 10px;">
-      <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*08yGjjxAPbImpkhQ.png" alt="PyTorch Light Mode Logo" width="80" height="40" style="margin-right: 10px;">
-      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" style="margin-right: 10px;">
-    </picture>
-  </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100" height="50" style="margin-right: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQEKIdttVBh55Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688538106780?e=2147483647&v=beta&t=eVjzQcwwmOGP7qHFjTWvyON1z44CTHHhfSAMBPFZ0a0" alt="Pandas" width="100" height="50" style="margin-right: 10px;">
   </a>
   <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
     <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="100" height="50" style="margin-right: 10px;">
