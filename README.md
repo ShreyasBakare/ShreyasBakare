@@ -47,7 +47,7 @@ Here's a breakdown of the tools I use, categorized for clarity:
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*08yGjjxAPbImpkhQ.png" alt="NumPy" width="100" height="50" style="margin-right: 10px;">
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/JuliaHEP/AwkwardArray.jl/master/docs/src/assets/logo.svg" alt="Awkward Array" width="40" height="40" style="margin-right: 10px;">
