@@ -57,7 +57,11 @@ Here's a breakdown of the tools I use, categorized for clarity:
     <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="100" height="50" style="margin-right: 10px;">
   </a>
   <a href="https://giotto-tda.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg" alt="Giotto-TDA" width="140" height="50" style="margin-right: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGiLrTFcdpCM7wJrswZ48l_1ObB54RD1T1Q&s" alt="PyTorch Dark Mode Logo" width="80" height="40" style="margin-right: 20px;">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg" alt="PyTorch Light Mode Logo" width="80" height="40" style="margin-right: 20px;">
+      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" style="margin-right: 20px;">
+    </picture>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40" style="margin-right: 10px;">
@@ -76,7 +80,7 @@ Here's a breakdown of the tools I use, categorized for clarity:
   </a>
 </p>
 
-### ⚛️ High Energy Physics (HEP) Software 🚀
+### High Energy Physics (HEP) Software 🚀
 
 <p align="center">
   <a href="https://root.cern/" target="_blank" rel="noreferrer">
