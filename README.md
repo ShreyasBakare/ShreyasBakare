@@ -35,7 +35,11 @@ Here's a breakdown of the tools I use, categorized for clarity:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*ThcllHZuDgpCMUCjYLqQag.png" alt="Jekyll" width="80" height="40" style="margin-right: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png" alt="PyTorch Dark Mode Logo" width="40" height="40" style="margin-right: 10px;">
+      <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*ThcllHZuDgpCMUCjYLqQag.png" alt="PyTorch Light Mode Logo" width="40" height="40" style="margin-right: 10px;">
+      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" style="margin-right: 10px;">
+    </picture>
   </a>
   <span style="font-size: 30px; vertical-align: middle;">(</span>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
