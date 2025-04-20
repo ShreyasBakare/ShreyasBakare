@@ -25,17 +25,17 @@ Here's a breakdown of the tools I use, categorized for clarity:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-    <img src="https://blog.mastykarz.nl/assets/images/2019/08/jekyll.webp" alt="Jekyll" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*ThcllHZuDgpCMUCjYLqQag.png" alt="Jekyll" width="40" height="40" style="margin-right: 10px;">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;">
+  (<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right: 10px;">
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width=30" height="30" style="margin-right: 10px;">
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30">
+  </a>)
 </p>
 
 ### 📊 Data Science & Machine Learning 🧠
