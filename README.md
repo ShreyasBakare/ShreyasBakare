@@ -16,139 +16,134 @@ Here's a breakdown of the tools I utilize, categorized for clarity:
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-    <img src="https://jekyllrb.com/img/logo-2x.png" alt="Jekyll" width="40" height="40" />
+    <img src="https://jekyllrb.com/img/logo-2x.png" alt="Jekyll" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
   </a>
 </p>
 
-### Data Handling & Analysis
+### 📊 Data Science & Machine Learning 🧠
 
 <p align="center">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/JuliaHEP/AwkwardArray.jl/master/docs/src/assets/logo.svg" alt="Awkward Array" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/JuliaHEP/AwkwardArray.jl/master/docs/src/assets/logo.svg" alt="Awkward Array" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://giotto-tda.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://giotto-tda.github.io/assets/img/logo.svg" alt="Giotto-TDA" width="40" height="40" />
+    <img src="https://giotto-tda.github.io/assets/img/logo.svg" alt="Giotto-TDA" width="40" height="40" style="margin-right: 10px;">
   </a>
-</p>
-
-### Machine Learning & Neural Networks
-
-<p align="center">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40" />
+    <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://pytorch-geometric.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/_static/img/pyg_logo.png" alt="PyG" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/_static/img/pyg_logo.png" alt="PyG" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.tensorflow.org/images/tf_logo.svg" alt="TensorFlow" width="40" height="40" />
+    <img src="https://www.tensorflow.org/images/tf_logo.svg" alt="TensorFlow" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://keras.io/img/keras-logo-2018-large-1200.png" alt="Keras" width="40" height="40" />
+    <img src="https://keras.io/img/keras-logo-2018-large-1200.png" alt="Keras" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo.svg" alt="Scikit-learn" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo.svg" alt="Scikit-learn" width="40" height="40">
   </a>
 </p>
 
-### HEP Softwares
+### ⚛️ High Energy Physics (HEP) Software 🚀
 
 <p align="center">
   <a href="https://root.cern/" target="_blank" rel="noreferrer">
-    <img src="https://root.cern/img/logos/ROOT_Logo/logos/linux/linux-icon-96.png" alt="ROOT" width="40" height="40" />
+    <img src="https://root.cern/img/logos/ROOT_Logo/logos/linux/linux-icon-96.png" alt="ROOT" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://cp3.irmp.uclouvain.be/projects/madgraph5/" target="_blank" rel="noreferrer">
-    <img src="https://cp3.irmp.uclouvain.be/projects/madgraph5/wiki/_media/mg5_logo.png" alt="MadGraph" width="40" height="40" />
+    <img src="https://cp3.irmp.uclouvain.be/projects/madgraph5/wiki/_media/mg5_logo.png" alt="MadGraph" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://pythia.hepforge.org/" target="_blank" rel="noreferrer">
-    <img src="https://pythia.hepforge.org/doxygen/html/pythialogo.gif" alt="Pythia" width="40" height="40" />
+    <img src="https://pythia.hepforge.org/doxygen/html/pythialogo.gif" alt="Pythia" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://cp3.irmp.uclouvain.be/projects/delphes/" target="_blank" rel="noreferrer">
-    <img src="https://cp3.irmp.uclouvain.be/projects/delphes/wiki/_media/delphes_logo.png" alt="Delphes" width="40" height="40" />
+    <img src="https://cp3.irmp.uclouvain.be/projects/delphes/wiki/_media/delphes_logo.png" alt="Delphes" width="40" height="40">
   </a>
 </p>
 
-### Scripting & Automation
+### ⚙️ Scripting & Automation 🤖
 
 <p align="center">
   <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/images/branding/product/1x/googlescript_64dp.png" alt="Google Apps Script" width="40" height="40" />
+    <img src="https://www.gstatic.com/images/branding/product/1x/googlescript_64dp.png" alt="Google Apps Script" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40">
   </a>
 </p>
 
-### Visualization & Motion Graphics
+### 📊 Visualization & Motion Graphics 🎬
 
 <p align="center">
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" alt="LaTeX" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" alt="LaTeX" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40" />
+    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" />
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" alt="DaVinci Resolve" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" alt="DaVinci Resolve" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.manim.community/" target="_blank" rel="noreferrer">
-    <img src="https://www.manim.community/static/logo/manim_logo_dark.svg" alt="Manim" width="40" height="40" />
+    <img src="https://www.manim.community/static/logo/manim_logo_dark.svg" alt="Manim" width="40" height="40">
   </a>
 </p>
 
-### Development Tools & Systems
+### 🛠️ Development Tools & Systems ⚙️
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_logo.svg" alt="VS Code" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_logo.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter Notebooks" height="40" />
+    <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter Notebooks" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" alt="Arduino" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/800px-Arduino_Logo.svg.png" alt="Arduino" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/640px-MacOS_logo.svg.png" alt="MacOS" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/640px-MacOS_logo.svg.png" alt="MacOS" width="40" height="40">
   </a>
 </p>
 
