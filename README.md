@@ -10,7 +10,7 @@ In my work, I often use C++, ROOT, and Python. In my free time, I enjoy explorin
 
 ## Tools I Use
 
-Here's a breakdown of the tools I utilize, categorized for clarity:
+Here's a breakdown of the tools I use, categorized for clarity:
 
 ### Programming
 
@@ -25,7 +25,7 @@ Here's a breakdown of the tools I utilize, categorized for clarity:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-    <img src="https://jekyllrb.com/img/logo-2x.png" alt="Jekyll" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://blog.mastykarz.nl/assets/images/2019/08/jekyll.webp" alt="Jekyll" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;">
