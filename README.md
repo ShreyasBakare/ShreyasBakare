@@ -15,8 +15,8 @@ Here's a breakdown of the tools I use, categorized for clarity:
 <p align="center">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="path/to/pytorch-logo-dark.svg" alt="PyTorch Dark Mode Logo" width="40" height="40" style="margin-right: 10px;">
-      <source media="(prefers-color-scheme: light)" srcset="path/to/pytorch-logo-light.svg" alt="PyTorch Light Mode Logo" width="40" height="40" style="margin-right: 10px;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="PyTorch Dark Mode Logo" width="40" height="40" style="margin-right: 10px;">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="PyTorch Light Mode Logo" width="40" height="40" style="margin-right: 10px;">
       <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch Logo" width="40" height="40" style="margin-right: 10px;">
     </picture>
   </a>
