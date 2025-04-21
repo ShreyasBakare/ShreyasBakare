@@ -12,6 +12,7 @@ In my work, I often use C++, ROOT, and Python. In my free time, I enjoy explorin
 
 Here's a breakdown of the tools I use, categorized for clarity:
 
+### Programming
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -23,25 +24,22 @@ Here's a breakdown of the tools I use, categorized for clarity:
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://root.cern/" target="_blank" rel="noreferrer">
-    <img src="https://root.cern/img/logos/ROOT_Logo/logos/linux/linux-icon-96.png" alt="ROOT" width="40" height="40" />
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter" height="40" />
-  </a>
+  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png" alt="PyTorch Dark Mode Logo" width="80" height="40" />
+      <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*ThcllHZuDgpCMUCjYLqQag.png" alt="PyTorch Light Mode Logo" width="80" height="40" />
+      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" />
+    </picture>
+  </a>
 </p>
-
-### Programming
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
-    
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
-  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
@@ -52,21 +50,16 @@ Here's a breakdown of the tools I use, categorized for clarity:
       <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" />
     </picture>
   </a>
-  
   <span style="font-size: 30px; vertical-align: middle;">(</span>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   </a>
-  
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="30" height="30"/>
   </a>
-  
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
   </a>
-  
   <span style="font-size: 30px; vertical-align: middle;">)</span>
 </p>
 
