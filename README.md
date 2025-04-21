@@ -55,6 +55,9 @@ Here's a breakdown of the tools I use, categorized for clarity:
     <img src="https://vectorseek.com/wp-content/uploads/2023/07/Pandas-Logo-Vector.svg-.png" alt="Pandas" width="80" height="40" />
   </a>
   <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
+    <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="80" height="40" />
+  </a>
+  <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
     <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="80" height="40" />
   </a>
   <a href="https://giotto-tda.github.io/" target="_blank" rel="noreferrer">
