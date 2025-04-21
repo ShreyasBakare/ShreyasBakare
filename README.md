@@ -62,6 +62,7 @@ Here's a breakdown of the tools I use, categorized for clarity:
       <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" />
     </picture>
   </a> 
+  <a></a>
   <span style="font-size: 30px; vertical-align: middle;">(</span>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
