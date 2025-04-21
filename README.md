@@ -48,19 +48,6 @@ Here's a breakdown of the tools I use, categorized for clarity:
 
 
 <p align="center">
-  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png" alt="PyTorch Dark Mode Logo" width="80" height="40" />
-      <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*ThcllHZuDgpCMUCjYLqQag.png" alt="PyTorch Light Mode Logo" width="80" height="40" />
-      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" />
-    </picture>
-  </a> 
-  <span style="font-size: 30px; vertical-align: middle;">(</span>
-
-  <span style="font-size: 30px; vertical-align: middle;">)</span>
-</p>
-
-<p align="center">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png" alt="NumPy" width="100" height="50" />
   </a>
@@ -77,6 +64,10 @@ Here's a breakdown of the tools I use, categorized for clarity:
       <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" />
     </picture>
   </a>
+</p>
+
+<p align="center">
+  
 </p>
 
 ### Machine Learning  and Neural Network Frameworks
