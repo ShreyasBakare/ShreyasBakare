@@ -1,4 +1,4 @@
-# Hi, I'm Shreyas 🙋🏻‍♂️
+  # Hi, I'm Shreyas 🙋🏻‍♂️
 
 A master's level physics student at the the [Indian Institute of Science Education and Research (IISER), Pune, India.](https://www.iiserpune.ac.in/) I am currently in the final year of my BS-MS dual degree working on my masters thesis in the [Experimnetal Particle Physics group at IISER Pune.](http://sites.iiserpune.ac.in/~ehep/index.html)
 
@@ -17,13 +17,12 @@ Here's a breakdown of the tools I use, categorized for clarity:
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a
+  </a>
     
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
-
-
+  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
@@ -34,16 +33,21 @@ Here's a breakdown of the tools I use, categorized for clarity:
       <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" />
     </picture>
   </a>
+  
   <span style="font-size: 30px; vertical-align: middle;">(</span>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   </a>
+  
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="30" height="30"/>
   </a>
+  
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
   </a>
+  
   <span style="font-size: 30px; vertical-align: middle;">)</span>
 </p>
 
