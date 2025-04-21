@@ -56,6 +56,13 @@ Here's a breakdown of the tools I use, categorized for clarity:
   <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
     <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="80" height="40" />
   </a>
+  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png" alt="PyTorch Dark Mode Logo" width="80" height="40" />
+      <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*ThcllHZuDgpCMUCjYLqQag.png" alt="PyTorch Light Mode Logo" width="80" height="40" />
+      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" />
+    </picture>
+  </a> 
   <a href="https://giotto-tda.github.io/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGiLrTFcdpCM7wJrswZ48l_1ObB54RD1T1Q&s" alt="PyTorch Dark Mode Logo" width="120" height="40" />
