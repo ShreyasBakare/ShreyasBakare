@@ -41,6 +41,7 @@ Here's a breakdown of the tools I use, categorized for clarity:
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
   </a>
+  <a></a>
   <span style="font-size: 30px; vertical-align: middle;">)</span>
 </p>
 
