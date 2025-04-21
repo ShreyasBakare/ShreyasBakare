@@ -30,7 +30,16 @@ Here's a breakdown of the tools I use, categorized for clarity:
       <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*ThcllHZuDgpCMUCjYLqQag.png" alt="PyTorch Light Mode Logo" width="80" height="40" />
       <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" />
     </picture>
-  </a>
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
 </p>
 
 <p align="center">
