@@ -1,4 +1,4 @@
-  # Hi, I'm Shreyas 🙋🏻‍♂️
+# Hi, I'm Shreyas 🙋🏻‍♂️
 
 A master's level physics student at the the [Indian Institute of Science Education and Research (IISER), Pune, India.](https://www.iiserpune.ac.in/) Currently, I'm in the final year of my BS-MS dual degree, working on my masters thesis with the [Experimnetal Particle Physics group at IISER Pune.](http://sites.iiserpune.ac.in/~ehep/index.html)
 
@@ -11,13 +11,29 @@ I'm especially interested in exploring innovative ways to apply various machine 
 In my work, I often use C++, ROOT, and Python. In my free time, I enjoy exploring new ideas and learning new things.
 
 Sorry for the mess, I am currently making some changes!
+
 ## Tools I Use
 
 Here are the tools I typically use, categorized for clarity:
 
-### Programming
+##### Programming Tools
 
 <p align="center">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png" alt="PyTorch Dark Mode Logo" width="80" height="40"/><source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:1200/format:webp/1*ThcllHZuDgpCMUCjYLqQag.png" alt="Jekyll_light" width="80" height="40" /> <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll_dark" width="80" height="40"/></picture></a>
+<span style="font-size: 30px; vertical-align: middle;">(</span>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="30" height="30"/></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/></a>
+<span style="font-size: 30px; vertical-align: middle;">)</span>
+</p> 
+
+<!-- <a href="https://root.cern/" target="_blank" rel="noreferrer"> <img src="https://root.cern/img/logos/ROOT_Logo/logos/linux/linux-icon-96.png" alt="ROOT" width="40" height="40"/></a>
+ <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="jupyter" height="40"/></a> -->
+
+<!--<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
@@ -45,7 +61,7 @@ Here are the tools I typically use, categorized for clarity:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
   </a>
   <span style="font-size: 30px; vertical-align: middle;">)</span>
-</p>
+</p> -->
 
 ### Data Handelling and Analysis Libraries
 
@@ -80,7 +96,7 @@ Here are the tools I typically use, categorized for clarity:
   
 </p>
 
-### Machine Learning  and Neural Network Frameworks
+### Machine Learning and Neural Network Frameworks
 
 <p align="center">
   <a href="https://giotto-tda.github.io/" target="_blank" rel="noreferrer">
@@ -107,7 +123,7 @@ Here are the tools I typically use, categorized for clarity:
   </a>
 </p>
 
-### High Energy Physics (HEP) Software 🚀
+### High Energy Physics (HEP) Software
 
 <p align="center">
   <a href="https://root.cern/" target="_blank" rel="noreferrer">
@@ -124,7 +140,7 @@ Here are the tools I typically use, categorized for clarity:
   </a>
 </p>
 
-### ⚙️ Scripting & Automation 🤖
+### Scripting & Automation
 
 <p align="center">
   <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer">
@@ -135,7 +151,7 @@ Here are the tools I typically use, categorized for clarity:
   </a>
 </p>
 
-### 📊 Visualization & Motion Graphics 🎬
+### Visualization & Motion Graphics
 
 <p align="center">
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
@@ -155,7 +171,7 @@ Here are the tools I typically use, categorized for clarity:
   </a>
 </p>
 
-### 🛠️ Development Tools & Systems ⚙️
+### Development Tools & Systems
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -184,7 +200,7 @@ Here are the tools I typically use, categorized for clarity:
   </a>
 </p>
 
-## Tools I Use
+<!--## Tools I Use
 
 ### Programming as
 
@@ -241,17 +257,17 @@ Here are the tools I typically use, categorized for clarity:
   </p>
 
 <p align="center">
-  </p>
+  </p> -->
 
 ## Projects
 
-### Master's Thesis
+### Master's Thesis : Development of graph based ML techniques for optimised particle analysis at LHC 
 
--   Exploring the use of Graph Neural Networks for tasks in experimental high-energy physics.
+-   Exploring the use of Graph Neural Networks for various tasks in experimental high-energy physics
 
-### Lepton Pairing Algorithm
+### Lepton pairing algorithm for multilepton final state analysis
 
--   Developed an algorithm to pair leptons in multi-lepton events, improving analysis accuracy.
+-   Developed an algorithm to pair leptons in multi-lepton events
 
 ### ATLAS 4-Lepton Search
 
