@@ -13,7 +13,7 @@ In my work, I often use C++, ROOT, and Python. In my free time, I enjoy explorin
 Sorry for the mess, I am currently making some changes!
 ## Tools I Use
 
-Here's a breakdown of the tools I typically use, categorized for clarity:
+Here are the tools I typically use, categorized for clarity:
 
 ### Programming
 
