@@ -6,7 +6,7 @@ My work focuses on **High Energy Physics (HEP) experiments**, specifically the o
 * The [Compact Muon Solenoid (CMS)](https://cms.cern/) experiment at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) and
 * The experiments proposed for the [Future Circular Electron-Positron Collider (FCC-ee)](https://fcc.web.cern.ch/)
 
-I am based at the [HEP group](https://www.psi.ch/en/ltp-high-energy-physics) of [_Laboratorie für Teilchen-Physik_ (LTP)](https://www.psi.ch/en/ltp) within the [Center for Neutron and Muon Sciences (CNM)]((https://www.psi.ch/en/cnm)) at the [Paul Scherrer Institute (PSI)](https://www.psi.ch/en), Switzerland🇨🇭
+I am based at the [HEP group](https://www.psi.ch/en/ltp-high-energy-physics) of [_Laboratorie für Teilchen-Physik_ (LTP)](https://www.psi.ch/en/ltp) within the [Center for Neutron and Muon Sciences (CNM)](https://www.psi.ch/en/cnm) at the [Paul Scherrer Institute (PSI)](https://www.psi.ch/en), Switzerland🇨🇭
 
 ### Background
 I completed my **Master’s in Physics** at the [Indian Institute of Science Education and Research (IISER), Pune](https://www.iiserpune.ac.in/) in 2025. During this five-year integrated Bachelor of Science and Master of Science (BS-MS) program, I worked on various semester projects focusing on **CMS physics analysis** starting in 2022 (more on this in the [Projects](##projects) section).
