@@ -2,10 +2,9 @@
 
 I recently started my doctoral (PhD) research in **Particle Physics** as part of [Prof. Lea Caminada’s group](https://www.physik.uzh.ch/en/groups/caminada.html) at the _Physik-Institut_ of the [University of Zurich (UZH)](https://www.uzh.ch/en.html).
 
-My work focuses on **High Energy Physics (HEP) experiments**, specifically:
+My work focuses on **High Energy Physics (HEP) experiments**, specifically the ones at [CERN](https://home.cern/), like:
 * The [Compact Muon Solenoid (CMS)](https://cms.cern/) experiment at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) and
 * The experiments proposed for the [Future Circular Electron-Positron Collider (FCC-ee)](https://fcc.web.cern.ch/)
-at [CERN](https://home.cern/).
 
 I am part of the [HEP Group]() at the [_Labor für Teilchenphysik_ (LTP)]() based within the [Center for Neutron and Muon Sciences (CNM)](https://www.psi.ch/en) at the [Paul Scherrer Institute (PSI)](https://www.psi.ch/en), Switzerland.
 
