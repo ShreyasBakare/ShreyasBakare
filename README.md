@@ -20,7 +20,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
 
 * **Science Communication:** I create content and build toy models to simplify physics topics. One of my YouTube interview has even surpassed 100,000 views.
 * **Academic Initiatives:** I led the **"Lagrangians to Lasers" (L2L)** journal club to foster a community between junior and senior physics students. To enhance our reach, I developed the [L2L website](https://lagrangians2lasers.github.io) and automated our digital presence.
-* **Sustainability:** I am also passionate about environmental impact, have contributed to climate action initiatives as intern at the **[14 Trees Foundation](https://www.14trees.org)**.
+* **Sustainability:** I am also passionate about environmental impact, have contributed to climate action initiatives as intern at the [14 Trees Foundation](https://www.14trees.org).
 
 ## Tools I often use
 
