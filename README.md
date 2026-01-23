@@ -36,13 +36,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
 <p align="center">
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png" alt="NumPy" width="100" height="50"/></a>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/d05ad50d-5162-4862-b34f-ae3b709a4238" alt="Pandas" width="100" height="50"/></a>
-  <!-- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/d29b9dbb-2212-44dd-b37b-8eb1c28f59f7" alt="Pandas" width="100" height="50" />
-  </a> -->
-  <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
-    <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="80" height="40" />
-  </a>
-  
+ <a href="https://awkward-array.org/" target="_blank" rel="noreferrer"> <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="100" height="50" /></a>
   <a href="https://giotto-tda.github.io/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGiLrTFcdpCM7wJrswZ48l_1ObB54RD1T1Q&s" alt="PyTorch Dark Mode Logo" width="120" height="40" />
