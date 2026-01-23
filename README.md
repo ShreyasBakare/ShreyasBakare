@@ -13,7 +13,7 @@ I completed my **Master’s in Physics** at the [Indian Institute of Science Edu
 
 For my master's thesis, I was part of [Prof. Sourabh Dube’s group](https://sites.iiserpune.ac.in/~sdube/) at the [Experimental Particle Physics department](http://sites.iiserpune.ac.in/~ehep/index.html) of IISER Pune, where I explored the use of **Graph Neural Networks (GNN)** for different tasks in experimental HEP.
 
-In 2023, as a [**CERN Summer Student**](https://home.cern/summer-student-programme), I briefly worked on the [ATLAS Experiment](https://atlas.cern/) at LHC for a new physics search.
+In 2023, as a [CERN Summer Student](https://careers.cern/programmes/summer-studentship/), I briefly worked on the [ATLAS Experiment](https://atlas.cern/) at LHC for a new physics search.
 
 ### Beyond Lab
 Outside of my research, I enjoy building automation tools and am passionate about making physics accessible to a general audience through visual storytelling.
