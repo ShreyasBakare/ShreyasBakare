@@ -71,7 +71,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
     <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png" alt="NumPy width="100" height="50" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://vectorseek.com/wp-content/uploads/2023/07/Pandas-Logo-Vector.svg-.png" alt="Pandas" width="80" height="40" />
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="80" height="40" />
   </a>
   <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
     <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="80" height="40" />
