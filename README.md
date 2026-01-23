@@ -68,7 +68,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
 
 <p align="center">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="[https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)" alt="NumPy width="100" height="50" />
+    <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png" alt="NumPy width="100" height="50" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://vectorseek.com/wp-content/uploads/2023/07/Pandas-Logo-Vector.svg-.png" alt="Pandas" width="80" height="40" />
