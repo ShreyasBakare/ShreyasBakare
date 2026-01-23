@@ -9,7 +9,7 @@ My work focuses on **High Energy Physics (HEP) experiments**, specifically the o
 I am based at the [HEP group](https://www.psi.ch/en/ltp-high-energy-physics) of [_Laboratorie für Teilchen-Physik_ (LTP)](https://www.psi.ch/en/ltp) within the [Center for Neutron and Muon Sciences (CNM)](https://www.psi.ch/en/cnm) at the [Paul Scherrer Institute (PSI)](https://www.psi.ch/en), Switzerland🇨🇭
 
 ### Background
-I completed my **Master’s in Physics** at the [Indian Institute of Science Education and Research (IISER), Pune](https://www.iiserpune.ac.in/) in 2025. During this five-year integrated Bachelor of Science and Master of Science (BS-MS) program, I worked on various semester projects focusing on **CMS physics analysis** starting in 2022 (more on this in the [Projects](#Projects) section).
+I completed my **Master’s in Physics** at the [Indian Institute of Science Education and Research (IISER), Pune](https://www.iiserpune.ac.in/) in 2025. During this five-year integrated Bachelor of Science and Master of Science (BS-MS) program, I worked on various semester projects focusing on **CMS physics analysis** starting in 2022 (more on this in [projects](#Projects) section).
 
 For my master's thesis, I worked with [Prof. Sourabh Dube’s group](https://sites.iiserpune.ac.in/~sdube/) at the [Experimental Particle Physics department](http://sites.iiserpune.ac.in/~ehep/index.html) of IISER Pune, where I explored the use of **Graph Neural Networks (GNN)** for different tasks in experimental HEP.
 
