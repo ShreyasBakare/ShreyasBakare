@@ -44,13 +44,6 @@ Outside of my research, I enjoy building automation tools and am passionate abou
       <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" />
     </picture>
   </a>
-  <a href="https://giotto-tda.github.io/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGiLrTFcdpCM7wJrswZ48l_1ObB54RD1T1Q&s" alt="PyTorch Dark Mode Logo" width="120" height="40" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg" alt="PyTorch Light Mode Logo" width="80" height="40" />
-      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" />
-    </picture>
-  </a>
 </p>
 
 <p align="center">
@@ -60,13 +53,6 @@ Outside of my research, I enjoy building automation tools and am passionate abou
 ### Machine Learning and Neural Network Frameworks
 
 <p align="center">
-  <a href="https://giotto-tda.github.io/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGiLrTFcdpCM7wJrswZ48l_1ObB54RD1T1Q&s" alt="PyTorch Dark Mode Logo" width="120" height="40" style="margin-right: 25px;">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giotto-ai/giotto-tda/master/doc/images/tda_logo.svg" alt="PyTorch Light Mode Logo" width="80" height="40" style="margin-right: 25px;">
-      <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="Jekyll" width="80" height="40" style="margin-right: 25px;">
-    </picture>
-  </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40" style="margin-right: 25px;">
   </a>
