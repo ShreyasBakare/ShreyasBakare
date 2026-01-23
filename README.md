@@ -11,16 +11,16 @@ I am based at the [HEP group](https://www.psi.ch/en/ltp-high-energy-physics) of 
 ### Background
 I completed my **Master’s in Physics** at the [Indian Institute of Science Education and Research (IISER), Pune](https://www.iiserpune.ac.in/) in 2025. During this five-year integrated Bachelor of Science and Master of Science (BS-MS) program, I worked on various semester projects focusing on **CMS physics analysis** starting in 2022 (more on this in the [Projects](#Projects) section).
 
-For my master's thesis, I was part of [Prof. Sourabh Dube’s group](https://sites.iiserpune.ac.in/~sdube/) at the [Experimental Particle Physics department](http://sites.iiserpune.ac.in/~ehep/index.html) of IISER Pune, where I explored the use of **Graph Neural Networks (GNN)** for different tasks in experimental HEP.
+For my master's thesis, I worked with [Prof. Sourabh Dube’s group](https://sites.iiserpune.ac.in/~sdube/) at the [Experimental Particle Physics department](http://sites.iiserpune.ac.in/~ehep/index.html) of IISER Pune, where I explored the use of **Graph Neural Networks (GNN)** for different tasks in experimental HEP.
 
-In 2023, as a [CERN Summer Student](https://careers.cern/programmes/summer-studentship/), I briefly worked on the [ATLAS Experiment](https://atlas.cern/) at LHC for a new physics search.
+In 2023, as a [CERN Summer Student](https://careers.cern/programmes/summer-studentship/), I worked briefly on the [ATLAS Experiment](https://atlas.cern/) at the LHC for a new physics search.
 
 ### Beyond Lab
 Outside of my research, I enjoy building automation tools and am passionate about making physics accessible to a general audience through visual storytelling.
 
-* **Science Communication:** I create content and build toy models to simplify physics topics. One of my YouTube interview has even surpassed 100,000 views.
+* **Science Communication:** I create content and build toy models to simplify physics topics. One of my YouTube interviews has even surpassed 100,000 views.
 * **Academic Initiatives:** I led the **"Lagrangians to Lasers" (L2L)** journal club to foster a community between junior and senior physics students. To enhance our reach, I developed the [L2L website](https://lagrangians2lasers.github.io) and automated our digital presence.
-* **Sustainability:** I am also passionate about environmental impact, have contributed to climate action initiatives as intern at the [14 Trees Foundation](https://www.14trees.org).
+* **Sustainability:** I am also passionate about environmental impact, and have contributed to climate action initiatives as an intern at the [14 Trees Foundation](https://www.14trees.org).
 
 ## Tools I often use
 
@@ -31,7 +31,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
 <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
  
-### Data Handelling and Analysis Libraries
+### Data Handling and Analysis Libraries
 
 <p align="center">
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png" alt="NumPy" width="100" height="50"/></a>
