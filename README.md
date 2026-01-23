@@ -33,7 +33,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
  
 ### Data Handling and Analysis Libraries
 
-<p align="center">
+<p align="left">
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png" alt="NumPy" width="100" height="50"/></a>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/d05ad50d-5162-4862-b34f-ae3b709a4238" alt="Pandas" width="100" height="50"/></a>
  <a href="https://awkward-array.org/" target="_blank" rel="noreferrer"> <img src="https://iris-hep.org/assets/logos/awkward.svg" alt="Awkward Array" width="100" height="50" /></a>
@@ -46,13 +46,13 @@ Outside of my research, I enjoy building automation tools and am passionate abou
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   
 </p>
 
 ### Machine Learning and Neural Network Frameworks
 
-<p align="center">
+<p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://pytorch.org/assets/images/pytorch-logo-dark.svg" alt="PyTorch" width="40" height="40" style="margin-right: 25px;">
   </a>
@@ -72,7 +72,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
 
 ### HEP Softwares
 
-<p align="center">
+<p align="left">
   <a href="https://root.cern/" target="_blank" rel="noreferrer">
     <img src="https://root.cern/img/logos/ROOT_Logo/logos/linux/linux-icon-96.png" alt="ROOT" width="40" height="40" style="margin-right: 10px;">
   </a>
@@ -89,7 +89,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
 
 ### Scripting & Automation
 
-<p align="center">
+<p align="left">
   <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer">
     <img src="https://www.gstatic.com/images/branding/product/1x/googlescript_64dp.png" alt="Google Apps Script" width="40" height="40" style="margin-right: 10px;">
   </a>
@@ -101,7 +101,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
 
 ### Visualization & Motion Graphics
 
-<p align="center">
+<p align="left">
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" alt="LaTeX" width="40" height="40" style="margin-right: 10px;">
   </a>
@@ -121,7 +121,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
 
 ### Development Tools & Systems
 
-<p align="center">
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;">
   </a>
