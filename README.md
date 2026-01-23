@@ -38,7 +38,7 @@ Outside of my research, I enjoy building automation tools and am passionate abou
     <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/04/numpy-1-1-.png" alt="NumPy width="100" height="50" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="<img width="1310" height="548" alt="Pandas" src="https://github.com/user-attachments/assets/d29b9dbb-2212-44dd-b37b-8eb1c28f59f7" />
+    <img src="https://github.com/user-attachments/assets/d29b9dbb-2212-44dd-b37b-8eb1c28f59f7" />
 " alt="Pandas" width="80" height="40" />
   </a>
   <a href="https://awkward-array.org/" target="_blank" rel="noreferrer">
